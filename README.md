@@ -1,0 +1,2 @@
+# CA_Tech_Lounge_natural_language_processing_2
+課題5. 自然言語処理②の課題回答用リポジトリです。
